@@ -4,7 +4,7 @@ Download latest [fcitx5-android](https://github.com/fcitx5-android/fcitx5-androi
 
 ## Download
 
-Jenkins: [![build status](https://img.shields.io/jenkins/build.svg?jobUrl=https://jenkins.fcitx-im.org/job/android/job/fcitx5-android-updater/)](https://jenkins.fcitx-im.org/job/android/job/fcitx5-android-updater/)
+[![Android CI](https://github.com/dntsdnts/fcitx5-android-updater/actions/workflows/android.yml/badge.svg)](https://github.com/dntsdnts/fcitx5-android-updater/actions/workflows/android.yml)
 
 ## Features
 
